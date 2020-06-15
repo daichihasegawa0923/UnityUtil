@@ -1,9 +1,9 @@
-# UnityUtil
+# 概要
 Unityでよく使う処理をまとめたパッケージ集です
 
-## パッケージの説明
-### TestPlayerPrefsPackage
-* 概要<br>
+# パッケージの説明
+## TestPlayerPrefsPackage
+* 機能<br>
 PlayerPrefsの値を自由に変更できます
 PlayerPrefsの値を確認できます
 * 使い方<br>
@@ -21,8 +21,17 @@ PlayerPrefsの値を確認できます
     * UIがうまく表示されない場合は、Scene上のTestPlayerPrefsManager内のUIを調整する
     * 実行結果がログに出力されるので、ログが確認できる状態で使用する
 
-## ファイル構成
+## StageChooser
+* 機能<br>
+簡易的なステージの選択機能です。
+* 使い方<br>
+    1. 修正中
 
-    UnityUtil
-    ┣ bin・・・完成したPackageを保存
-    ┗ src・・・Package編集用のUnityプロジェクトファイルを保存
+* 注意点
+    * 修正中
+
+# ファイル構成
+
+        UnityUtil
+        ┣ bin・・・完成したPackageを保存
+        ┗ src・・・Package編集用のUnityプロジェクトファイルを保存
